@@ -37,20 +37,29 @@
       "company": "Livingston International",
       "position": "Director, IT - Global Systems",
       "website": "http://www.livingstonintl.com",
-      "startDate": "2015-01-01",
-      "summary": "TBD",
+      "startDate": "2014-04-01",
+      "summary": "Lead a team of 11 employees and 2 contractors through a number of challenges due to Livingston International's technical debt.",
       "highlights": [
-       "TBD"
+       ""
       ]
     },
     {
       "company": "Livingston International",
       "position": "Senior Systems Architect - Cloud",
       "website": "http://www.livingstonintl.com",
-      "startDate": "2015-01-01",
-      "summary": "TBD",
+      "startDate": "2015-01-05",
+      "summary": "Provide architectural & technical guidance on AWS Cloud & On Premises environments for the enterprise.",
       "highlights": [
-       "TBD"
+        "Created Livingston International's AWS cloud footprint growing to more than 20 accounts across 4 regions.",
+        "Created Livingston International's standard for deploying to AWS using Cloudformation.",
+        "Created Livingston International's standard for deploying systems to AWS using EC2, RDS, and ECS.",
+        "Multi-AZ VPC, Transit Gateway, Direct Connect, DMVPN Backup to on-prem.",
+        "Designed and deployed Livingston International's new Equinix datacenters in Ashburn, VA and Toronto, Ontario.",
+        "Deployed UCS in each of the two new datacenters with iScsi HPE Nimble HF SAN.",
+        "Deployed EMC VxRail appliance in each of the two new datacenters.",
+        "Re-designed the corporate Oracle footprint in AWS with RDS & EC2 where necessary",
+        "Migrated & Decommissioned 6+ disparate data centers into DC3 & TR2 on Cisco UCS",
+        "Worked with gathering requirements from several product development teams and architected a robust, highly available platforms for which product lines would be hosted and accessed by customers."        
       ]
     },
     {
@@ -59,9 +68,13 @@
       "website": "http://hidesigns.com/",
       "startDate": "2014-04-01",
       "endDate": "2015-01-01",
-      "summary": "TBD",
+      "summary": "Lead a team of 3 employees through the process of moving to AWS, and upgrading all remaining on premise systems.",
       "highlights": [
-        "TBD"
+        "Managed a team of 3 Linux engineers, responsible for the infrastructure including Load Balancers, Firewalls, Windows servers, Linux Servers, and VMWare servers.",
+        "Designed new clustered virtualization infrastructure to eliminate single points of failure",
+        "Completed cloud feasibility study with multiple cloud and IAAS vendors to determine if it made financial sense to migrate from on premise equipment into the cloud",
+        "Designed new Active Directory implementation to replace aging and misconfigured Active Directory",
+        "Implemented disaster recovery plan and automation with HID’s two largest products."
       ]
     },
     {
@@ -70,9 +83,18 @@
       "website": "http://www.tnsi.com/",
       "startDate": "2013-04-01",
       "endDate": "2014-04-01",
-      "summary": "TBD",
+      "summary": "Managed a team of 4 Linux engineers, responsible for VMWare and Linux VMs in the US, Europe, and Asia",
       "highlights": [
-        "TBD"
+        "Managed a team of 4 Linux engineers, responsible for VMWare and Linux VMs in the US and Europe",
+        "Designed new ESXi 5.1 infrastructure and implemented it in TNS’ new Datacenter in Ashburn VA",
+        "Managed the migration and moving of 750+ systems from TNS’ Datacenter in Reston, VA to Ashburn VA, including 561 VMs, 9 VMWare clusters made up of 27 hosts.",
+        "Deployed Catbird Security solution for VMWare in the UK",
+        "Standardized VMWare configuration across enterprise (150+ VMware hosts)",
+        "Evaluated & Scoped VCAC automation suite for an enterprise",
+        "Managing VMWare & UCS compute platforms with PowerShell",
+        "Implemented automated Disaster Recovery on Virtualized platforms",
+        "Designed and Implemented Clustered vCenter per geographic region, migrated from 18 vCenters to 6. Three regions, North America, Europe and Asia Pacific.",
+        "Deployed Windows System Center Operations Manager to monitor VM Hypervisors, UCS compute Platforms & EMC Storage Platforms"
       ]
     },
     {
@@ -81,14 +103,20 @@
       "website": "http://www.tnsi.com/",
       "startDate": "2012-05-01",
       "endDate": "2013-04-01",
-      "summary": "TBD",
+      "summary": "Provide deep experience in VMware and introduce new standards for use at TNS.",
       "highlights": [
-        "TBD"
+        "Designed and deployed an updated lab infrastructure using ESXi 5.0 and vCloud director",
+        "Standardized on UCS blades for Compute Platform, migrated from HP proliant rack servers",
+        "Implemented standards for all Linux VMs including naming, partitioning, package install, and logging settings",
+        "Implemented centralized repository for VMWare and Linux patch installations",
+        "Scoped out project to enable VMWare chargeback and VCOps for full deployment at TNS worldwide",
+        "Standardized on Authentication scheme using MS Active Directory and Centrify Direct Control",
+        "Designed & Implemented VMWare update strategy using the VMWare update manager"
       ]
     },
     {
       "company": "Northrop Grumman Corporation",
-      "position": "Systems Administrator",
+      "position": "Systems Architect",
       "website": "https://www.northropgrumman.com.com/",
       "startDate": "2006-08-01",
       "endDate": "2012-05-01",
@@ -98,25 +126,76 @@
       ]
     },
     {
-      "company": "Perot Systems",
+      "company": "Imperium Staffing",
       "position": "Systems Administrator",
-      "website": "http://www.tnsi.com/",
+      "website": "",
       "startDate": "2005-10-01",
       "endDate": "2006-06-01",
-      "summary": "TBD",
+      "summary": "Provide systems administrator services to Perot systems clients",
       "highlights": [
-        "TBD"
+        "Administered, maintained, and supported a client with 500+ servers",
+        "Designed and implemented a Virtual Server environment.",
+        "Clustered Microsoft Virtual Server environment for developing new applications, and testing existing applications before rolling them out into production.",
+        "Clustered Microsoft Virtual Server solution for internal and external domain controllers, saving the client $50,000 in hardware costs.",
+        "Re-engineered the production Citrix environment to improve efficiency and uptime.",
+        "Re-engineered the development Citrix environment to match the production Citrix environment."
       ]
     },
     {
       "company": "PepsiCo",
       "position": "Systems Engineer (Desktop)",
       "website": "http://www.pepsico.com/",
-      "startDate": "1999-03-01",
+      "startDate": "2003-08-01",
       "endDate": "2005-08-01",
-      "summary": "TBD",
+      "summary": "Lead engineer on a team of 5, supporting all client devices used by PepsiCo employees",
       "highlights": [
-        "TBD"
+        "Responsible for designing and implementing PepsiCo’s common Windows XP scripted and image-based installs for 30,000+ desktop and laptop computers.",
+        "Evaluated, engineered, and rolled out the Toshiba Portege 3500 and Toshiba Portege M200 for PepsiCo’s tablet computing needs.",
+        "Facilitated weekly meetings with the help desk to discuss issues with Windows XP in an effort to create solutions to reduce call volume and duration.",
+        "Developed and led multiple Windows XP training classes with the help desk to help PepsiCo plan for the transition of support from Windows NT to Windows XP.",
+        "Developed and supported the process to Convert 1,300 computers at Quaker and Tropicana from Windows NT to Windows XP.",
+        "Designed and implemented Active Directory policies for PepsiCo client PCs to allow greater control and stability of the operating system through the use of group policies.",
+        "Designed and implemented PepsiCo’s Microsoft Software Update Services (SUS) environment to maintain the security patch level of all Windows XP laptops and desktops.",
+        "Re-engineered PepsiCo’s SNA mainframe connectivity complex to run on vendor supported hardware and software.",
+        "Principal project engineer for the My Access project to deliver a employee self-service kiosk solution for manufacturing sites and other locations with limited or non-PepsiCo computers - allowing employees to complete yearly benefit enrollment and manage HR-related information via computer."
+      ]
+    },
+    {
+      "company": "PepsiCo Production Certification Lab",
+      "position": "Systems Engineer (Desktop)",
+      "website": "http://www.pepsico.com/",
+      "startDate": "2001-08-01",
+      "endDate": "2003-08-01",
+      "summary": "Lead tester for all infrastructure changes including Windows NT Workstation 4.0, Windows NT Server 4.0, OS/2 Warp Server 3.0, and Lotus Notes Server version 4.5",
+      "highlights": [
+        "Consistently completed projects ahead of schedule and with a high degree of customer satisfaction.",
+        "Implemented changes in the testing procedures to streamline the process and reduce cycle time.",
+        "Designed and implemented a Ghost Image process to streamline application testing which reduced testing time by an average of 40%.",
+        "Provided intra-team training and documentation on the Ghost product suite.",
+        "Trained a team of professionals on various infrastructure components that were used to emulate PepsiCo field sites including servers, desktops, laptops, network switches, routers, Windows NT 4.0 workstation, Windows NT 4.0 Server, OS/2 Server 3.0, OS/2 Warp 4.0 for workstations.",
+        "Upgraded and added additional equipment to more accurately emulate field sites for application and infrastructure component testing which reduced the number of errors during rollouts by 25%."
+      ]
+    },{
+      "company": "PepsiCo Critical Situations Team",
+      "position": "Systems Engineer (Desktop)",
+      "website": "http://www.pepsico.com/",
+      "startDate": "1999-07-01",
+      "endDate": "2001-08-01",
+      "summary": "Provided third level support for all PepsiCo and Frito-Lay field locations",
+      "highlights": [
+        "Implemented the idea of “Education Hour”.  A meeting every week that lasted anywhere from thirty minutes to two hours where at each meeting a different person would share information they learned over the course of the month with the rest of the team which resulted in a more efficient team and backup capabilities."
+      ]
+    },{
+      "company": "Tek Systems",
+      "position": "Field rollout support",
+      "website": "https://www.teksystems.com",
+      "startDate": "1998-12-01",
+      "endDate": "1999-07-01",
+      "summary": "Provide rollout services and support to the Frito-Lay division of PepsiCo.",
+      "highlights": [
+        "Led a team of contractors to upgrade all desktops, laptops, and servers at Frito-Lay Manufacturing sites (OS/2 Warp Server, OS/2 Warp 4.0 workstation, Windows NT 4.0 workstation).",
+        "Supported 250 Frito-Lay distribution centers as they were upgraded to OS/2 Warp Server, OS/2 Warp 4.0 workstation, and Windows NT 4.0 workstation.",
+        "Helped develop a more efficient upgrade processes to be used in nearly 250 Frito-Lay area offices, manufacturing sites, and distribution centers leading to less downtime and quicker conversions from old to new servers."
       ]
     }
   ],
@@ -162,7 +241,7 @@
     },
     {
       "name": "CI/CD",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Jenkins",
         "AWS:CodeBuild",
