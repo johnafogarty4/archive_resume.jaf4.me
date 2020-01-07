@@ -74,7 +74,7 @@
         "Designed new clustered virtualization infrastructure to eliminate single points of failure",
         "Completed cloud feasibility study with multiple cloud and IAAS vendors to determine if it made financial sense to migrate from on premise equipment into the cloud",
         "Designed new Active Directory implementation to replace aging and misconfigured Active Directory",
-        "Implemented disaster recovery plan and automation with HID’s two largest products."
+        "Implemented disaster recovery plan and automation with HID's two largest products."
       ]
     },
     {
@@ -86,8 +86,8 @@
       "summary": "Managed a team of 4 Linux engineers, responsible for VMWare and Linux VMs in the US, Europe, and Asia",
       "highlights": [
         "Managed a team of 4 Linux engineers, responsible for VMWare and Linux VMs in the US and Europe",
-        "Designed new ESXi 5.1 infrastructure and implemented it in TNS’ new Datacenter in Ashburn VA",
-        "Managed the migration and moving of 750+ systems from TNS’ Datacenter in Reston, VA to Ashburn VA, including 561 VMs, 9 VMWare clusters made up of 27 hosts.",
+        "Designed new ESXi 5.1 infrastructure and implemented it in TNS' new Datacenter in Ashburn VA",
+        "Managed the migration and moving of 750+ systems from TNS' Datacenter in Reston, VA to Ashburn VA, including 561 VMs, 9 VMWare clusters made up of 27 hosts.",
         "Deployed Catbird Security solution for VMWare in the UK",
         "Standardized VMWare configuration across enterprise (150+ VMware hosts)",
         "Evaluated & Scoped VCAC automation suite for an enterprise",
@@ -149,20 +149,20 @@
       "endDate": "2005-08-01",
       "summary": "Lead engineer on a team of 5, supporting all client devices used by PepsiCo employees",
       "highlights": [
-        "Responsible for designing and implementing PepsiCo’s common Windows XP scripted and image-based installs for 30,000+ desktop and laptop computers.",
-        "Evaluated, engineered, and rolled out the Toshiba Portege 3500 and Toshiba Portege M200 for PepsiCo’s tablet computing needs.",
+        "Responsible for designing and implementing PepsiCo's common Windows XP scripted and image-based installs for 30,000+ desktop and laptop computers.",
+        "Evaluated, engineered, and rolled out the Toshiba Portege 3500 and Toshiba Portege M200 for PepsiCo's tablet computing needs.",
         "Facilitated weekly meetings with the help desk to discuss issues with Windows XP in an effort to create solutions to reduce call volume and duration.",
         "Developed and led multiple Windows XP training classes with the help desk to help PepsiCo plan for the transition of support from Windows NT to Windows XP.",
         "Developed and supported the process to Convert 1,300 computers at Quaker and Tropicana from Windows NT to Windows XP.",
         "Designed and implemented Active Directory policies for PepsiCo client PCs to allow greater control and stability of the operating system through the use of group policies.",
-        "Designed and implemented PepsiCo’s Microsoft Software Update Services (SUS) environment to maintain the security patch level of all Windows XP laptops and desktops.",
-        "Re-engineered PepsiCo’s SNA mainframe connectivity complex to run on vendor supported hardware and software.",
+        "Designed and implemented PepsiCo's Microsoft Software Update Services (SUS) environment to maintain the security patch level of all Windows XP laptops and desktops.",
+        "Re-engineered PepsiCo's SNA mainframe connectivity complex to run on vendor supported hardware and software.",
         "Principal project engineer for the My Access project to deliver a employee self-service kiosk solution for manufacturing sites and other locations with limited or non-PepsiCo computers - allowing employees to complete yearly benefit enrollment and manage HR-related information via computer."
       ]
     },
     {
       "company": "PepsiCo Production Certification Lab",
-      "position": "Systems Engineer (Desktop)",
+      "position": "Systems Administrator",
       "website": "http://www.pepsico.com/",
       "startDate": "2001-08-01",
       "endDate": "2003-08-01",
@@ -177,13 +177,13 @@
       ]
     },{
       "company": "PepsiCo Critical Situations Team",
-      "position": "Systems Engineer (Desktop)",
+      "position": "Support Engineer",
       "website": "http://www.pepsico.com/",
       "startDate": "1999-07-01",
       "endDate": "2001-08-01",
       "summary": "Provided third level support for all PepsiCo and Frito-Lay field locations",
       "highlights": [
-        "Implemented the idea of “Education Hour”.  A meeting every week that lasted anywhere from thirty minutes to two hours where at each meeting a different person would share information they learned over the course of the month with the rest of the team which resulted in a more efficient team and backup capabilities."
+        "Implemented the idea of \"Education Hour\".  A meeting every week that lasted anywhere from thirty minutes to two hours where at each meeting a different person would share information they learned over the course of the month with the rest of the team which resulted in a more efficient team and backup capabilities."
       ]
     },{
       "company": "Tek Systems",
