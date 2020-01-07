@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "John Fogarty",
+    "label": "Director / Cloud Systems Architect",
+    "picture": "",
+    "email": "johnafogarty4@gmail.com",
+    "phone": "925.456.4604",
+    "website": "http://www.rlgeex.com",
+    "summary": "TBD",
+    "location": {
+      "address": "9345 Cougar Ct.",
+      "postalCode": "VA 20111",
+      "city": "Manassas Park",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "johnafogarty4",
+        "url": "https://github.com/johnafogarty4"
+      },
+      {
+        "network": "Twitter",
+        "username": "@johnafogarty4",
+        "url": "https://twitter.com/johnafogarty4"
+      },
+      {
+        "network": "Linkedin",
+        "username": "johnafogarty4",
+        "url": "https://www.linkedin.com/in/johnafogarty4/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Livingston International",
+      "position": "Director, IT - Global Systems",
+      "website": "http://www.livingstonintl.com",
+      "startDate": "2015-01-01",
+      "summary": "TBD",
+      "highlights": [
+       "TBD"
+      ]
+    },
+    {
+      "company": "Livingston International",
+      "position": "Senior Systems Architect - Cloud",
+      "website": "http://www.livingstonintl.com",
+      "startDate": "2015-01-01",
+      "summary": "TBD",
+      "highlights": [
+       "TBD"
+      ]
+    },
+    {
+      "company": "Health Information Designs",
+      "position": "Manager of Infrastructure",
+      "website": "http://hidesigns.com/",
+      "startDate": "2014-04-01",
+      "endDate": "2015-01-01",
+      "summary": "TBD",
+      "highlights": [
+        "TBD"
+      ]
+    },
+    {
+      "company": "Transaction Network Services",
+      "position": "Manager Linux Systems",
+      "website": "http://www.tnsi.com/",
+      "startDate": "2013-04-01",
+      "endDate": "2014-04-01",
+      "summary": "TBD",
+      "highlights": [
+        "TBD"
+      ]
+    },
+    {
+      "company": "Transaction Network Services",
+      "position": "Senior Unix Systems Administrator",
+      "website": "http://www.tnsi.com/",
+      "startDate": "2012-05-01",
+      "endDate": "2013-04-01",
+      "summary": "TBD",
+      "highlights": [
+        "TBD"
+      ]
+    },
+    {
+      "company": "Northrop Grumman Corporation",
+      "position": "Systems Administrator",
+      "website": "https://www.northropgrumman.com.com/",
+      "startDate": "2006-08-01",
+      "endDate": "2012-05-01",
+      "summary": "TBD",
+      "highlights": [
+        "TBD"
+      ]
+    },
+    {
+      "company": "Perot Systems",
+      "position": "Systems Administrator",
+      "website": "http://www.tnsi.com/",
+      "startDate": "2005-10-01",
+      "endDate": "2006-06-01",
+      "summary": "TBD",
+      "highlights": [
+        "TBD"
+      ]
+    },
+    {
+      "company": "PepsiCo",
+      "position": "Systems Engineer (Desktop)",
+      "website": "http://www.pepsico.com/",
+      "startDate": "1999-03-01",
+      "endDate": "2005-08-01",
+      "summary": "TBD",
+      "highlights": [
+        "TBD"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "skills": [
+    {
+      "name": "Technical Competencies",
+      "level": "Master",
+      "keywords": [
+        "Linux/Windows",
+        "Packer",
+        "Terraform",
+        "Ansible",
+        "Docker",
+        "Dual-Stack IPv4 & IPv6",
+        "Grafana",
+        "Zabbix",
+        "Zerto",
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "Cloud Architecture",
+      "level": "Master",
+      "keywords": [
+        "AWS:IAM",
+        "AWS:CloudFormation",
+        "AWS:VPC",
+        "AWS:EC2",
+        "AWS:RDS",
+        "AWS:ALB",
+        "AWS:ClassicELB",
+        "AWS:NLB",
+        "AWS:Route53",
+        "AWS:S3",
+        "AWS:CertificateManager",
+        "AWS:CloudFront",
+        "AWS:DirectConnect",
+        "AWS:EFS",
+        "cfn-init"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Intermediate",
+      "keywords": [
+        "Jenkins",
+        "AWS:CodeBuild",
+        "AWS:CodePipeline",
+        "AWS:CodeCommit"
+      ]
+    },
+    {
+      "name": "On-Premises Architecture",
+      "level": "Master",
+      "keywords": [
+        "VMWawre",
+        "Cisco UCS",
+        "Cisco MDS",
+        "HPE Nimble",
+        "KVM",
+        "Ubiquiti Unifi"
+      ]
+    },
+    {
+      "name": "VMWare",
+      "level": "Master",
+      "keywords": [
+        "ESXi",
+        "vCenter",
+        "Horizon",
+        "vROPS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": []
+}
