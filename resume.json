@@ -42,7 +42,7 @@
       "highlights": [
         "Developed, implemented, and led our team to automate infrastructure deployments.",
         "Created Livingston International's Infrastructure as Code standard, utilizing Terraform, Packer, and Cloudformation.",
-        "Developed Livingston International's linux packer images for use with Terraform",
+        "Developed Livingston International's linux packer images for use with Terraform.",
         "Lowered costs by consolidating older datacenters from past aquisitions into our new Equinix Datacenters.",
         "Lowered cloud costs by moving workloads that are not cloud friendly into our Equinix datacenters.",
         "Lowered cloud costs by implementing an in house devloped instance scheduler for all non-production systems.",
