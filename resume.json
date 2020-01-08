@@ -38,7 +38,7 @@
       "position": "Director, IT - Global Systems",
       "website": "http://www.livingstonintl.com",
       "startDate": "2016-04-12",
-      "summary": "In 2014 I was promoted over a group of Systems Administrators that were struggling to see a future outside of our MSP.  In that time we have expanded our on premise non MSP server environment 200% and our AWS cloud based environment 400%.",
+      "summary": "In 2016 I was promoted over a group of Systems Administrators that were struggling to see a future outside of our MSP.  In that time we have expanded our on premise non MSP server environment 200% and our AWS cloud based environment 400%.",
       "highlights": [
         "Developed, implemented, and led our team to automate infrastructure deployments.",
         "Created Livingston International's Infrastructure as Code standard, utilizing Terraform, Packer, and Cloudformation.",
