@@ -6,7 +6,7 @@
     "email": "johnafogarty4@gmail.com",
     "phone": "925.456.4604",
     "website": "http://www.rlgeex.com",
-    "summary": "TBD",
+    "summary": "A distinguished Director of IT and Systems Architect with expertise in a very diverse range of technology.  Demonstrated success managing individuals, teams, projects, and complicated system designs.  Delivering projects on time, is a result of a very organized and results driven individual with a proven ability to implement standards, procedures, and processes. Demonstrates strong leadership skills while leading teams to higher levels of productivity and creating a more coheisve team environment.",
     "location": {
       "address": "9345 Cougar Ct.",
       "postalCode": "VA 20111",
@@ -37,11 +37,12 @@
       "company": "Livingston International",
       "position": "Director, IT - Global Systems",
       "website": "http://www.livingstonintl.com",
-      "startDate": "2014-04-01",
+      "startDate": "2016-04-12",
       "summary": "In 2014 I was promoted over a group of Systems Administrators that were struggling to see a future outside of our MSP.  In that time we have expanded our on premise non MSP server environment 200% and our AWS cloud based environment 400%.",
       "highlights": [
         "Developed, implemented, and led our team to automate infrastructure deployments.",
-        "Created Livingston International's Infrastructure as Code standard.",
+        "Created Livingston International's Infrastructure as Code standard, utilizing Terraform, Packer, and Cloudformation.",
+        "Developed Livingston International's linux packer images for use with Terraform",
         "Lowered costs by consolidating older datacenters from past aquisitions into our new Equinix Datacenters.",
         "Lowered cloud costs by moving workloads that are not cloud friendly into our Equinix datacenters.",
         "Lowered cloud costs by implementing an in house devloped instance scheduler for all non-production systems.",
@@ -56,6 +57,7 @@
       "position": "Senior Systems Architect - Cloud",
       "website": "http://www.livingstonintl.com",
       "startDate": "2015-01-05",
+      "endDate": "2016-04-12",
       "summary": "Provide architectural & technical guidance on AWS Cloud & On Premises environments for the enterprise.",
       "highlights": [
         "Created Livingston International's AWS cloud footprint growing to more than 20 accounts across 4 regions.",
@@ -67,7 +69,7 @@
         "Deployed EMC VxRail appliance in each of the two new datacenters.",
         "Re-designed the corporate Oracle footprint in AWS with RDS & EC2 where necessary.",
         "Migrated & Decommissioned 6+ disparate data centers into DC3 & TR2 on Cisco UCS.",
-        "Worked with gathering requirements from several product development teams and architected a robust, highly available platforms for which product lines would be hosted and accessed by customers."
+        "Worked with gathering requirements from several product development teams and architected robust, highly available platforms for which product lines would be hosted and accessed by customers."
       ]
     },
     {
@@ -76,7 +78,7 @@
       "website": "http://hidesigns.com/",
       "startDate": "2014-04-01",
       "endDate": "2015-01-01",
-      "summary": "Lead a team of 3 employees through the process of moving to AWS, and upgrading all remaining on premise systems.",
+      "summary": "Lead a team of 3 Linux engineers through the process of moving to highly available on-premise systems.",
       "highlights": [
         "Managed a team of 3 Linux engineers, responsible for the infrastructure including Load Balancers, Firewalls, Windows servers, Linux Servers, and VMWare servers.",
         "Designed new clustered virtualization infrastructure to eliminate single points of failure.",
@@ -93,7 +95,6 @@
       "endDate": "2014-04-01",
       "summary": "Managed a team of 4 Linux engineers, responsible for VMWare and Linux VMs in the US, Europe, and Asia.",
       "highlights": [
-        "Managed a team of 4 Linux engineers, responsible for VMWare and Linux VMs in the US and Europe.",
         "Designed new ESXi 5.1 infrastructure and implemented it in TNS' new Datacenter in Ashburn VA.",
         "Managed the migration and moving of 750+ systems from TNS' Datacenter in Reston, VA to Ashburn VA, including 561 VMs, 9 VMWare clusters made up of 27 hosts.",
         "Deployed Catbird Security solution for VMWare in the UK.",
@@ -125,7 +126,7 @@
     {
       "company": "Northrop Grumman Corporation",
       "position": "Systems Engineer",
-      "website": "https://www.northropgrumman.com.com/",
+      "website": "https://www.northropgrumman.com/",
       "startDate": "2006-08-01",
       "endDate": "2012-05-01",
       "summary": "Systems Engineer responsiple for maintaining servers and special projects.",
@@ -145,7 +146,7 @@
       "website": "",
       "startDate": "2005-10-01",
       "endDate": "2006-06-01",
-      "summary": "Provide systems administrator services to Perot systems clients",
+      "summary": "Provide systems administrator services to Perot Systems clients.",
       "highlights": [
         "Administered, maintained, and supported a client with 500+ servers.",
         "Designed and implemented a Virtual Server environment.",
