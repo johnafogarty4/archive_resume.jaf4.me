@@ -5,7 +5,7 @@ phases:
     runtime-versions:
         nodejs: 8
     commands:
-      - npm config set puppeteer_skip_chromium_download false -g
+      - npm config set puppeteer_skip_chromium_download true -g
       - npm install -g resume-cli jsonresume-theme-elegant
       - npm install
       
@@ -17,8 +17,7 @@ phases:
   build:
     commands:
       - resume export public/index.html --theme elegant
-      - resume export public/resume.pdf
-
+      
   post_build:
     commands:
       - cd public/ && aws s3 sync . s3://www.jaf4.me/ --delete 
