@@ -5,6 +5,7 @@
     "picture": "",
     "email": "johnafogarty4@gmail.com",
     "phone": "925.456.4604",
+    "website": "http://www.rlgeex.com",
     "summary": "A distinguished Director of IT and Systems Architect with expertise in a very diverse range of technology.  Demonstrated success managing individuals, teams, projects, and complicated system designs.  Delivering projects on time, is a result of a very organized and results driven individual with a proven ability to implement standards, procedures, and processes. Demonstrates strong leadership skills while leading teams to higher levels of productivity and creating a more coheisve team environment.",
     "location": {
       "address": "9345 Cougar Ct.",
@@ -14,6 +15,16 @@
       "region": "Virginia"
     },
     "profiles": [
+      {
+        "network": "Github",
+        "username": "johnafogarty4",
+        "url": "https://github.com/johnafogarty4"
+      },
+      {
+        "network": "Twitter",
+        "username": "@johnafogarty4",
+        "url": "https://twitter.com/johnafogarty4"
+      },
       {
         "network": "Linkedin",
         "username": "johnafogarty4",
@@ -203,7 +214,29 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [{
+    "organization": "SYA Soccer",
+    "position": "Vice President",
+    "website": "https://syasoccer.org",
+    "startDate": "2013-10-01",
+    "endDate": "2015-08-01",
+    "summary": "Vice President on the board of SYA soccer focused on the recreational soccer program.",
+    "highlights": [
+      "Awarded 'Volunteer of the Year 2015'"
+      ]
+    },
+    {
+      "organization": "SYA Soccer",
+      "position": "Website Administrator",
+      "website": "https://syasoccer.org",
+      "startDate": "2012-08-01",
+      "endDate": "2013-12-01",
+      "summary": "Website Administrator responsiple with posting new articles and updateing the backend CMS.",
+      "highlights": [
+        "Awarded 'Volunteer of the Year 2013'"
+      ]
+    }
+    ],
   "education": [],
   "skills": [
     {
@@ -276,6 +309,11 @@
       ]
     }
   ],
-  "languages": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
   "interests": []
 }
