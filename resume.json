@@ -72,7 +72,6 @@
         "Managed a team of 3 Linux engineers, responsible for the infrastructure including Load Balancers, Firewalls, Windows servers, Linux Servers, and VMWare servers.",
         "Designed new clustered virtualization infrastructure to eliminate single points of failure.",
         "Completed cloud feasibility study with multiple cloud and IAAS vendors to determine if it made financial sense to migrate from on premise equipment into the cloud.",
-        "Designed new Active Directory implementation to replace aging and misconfigured Active Directory.",
         "Implemented disaster recovery plan and automation with HID's two largest products."
       ]
     },
@@ -86,13 +85,9 @@
       "highlights": [
         "Designed new ESXi 5.1 infrastructure and implemented it in TNS' new Datacenter in Ashburn VA.",
         "Managed the migration and moving of 750+ systems from TNS' Datacenter in Reston, VA to Ashburn VA, including 561 VMs, 9 VMWare clusters made up of 27 hosts.",
-        "Deployed Catbird Security solution for VMWare in the UK.",
         "Standardized VMWare configuration across enterprise (150+ VMware hosts).",
-        "Evaluated & Scoped VCAC automation suite for an enterprise.",
-        "Managing VMWare & UCS compute platforms with PowerShell.",
         "Implemented automated Disaster Recovery on Virtualized platforms.",
-        "Designed and Implemented Clustered vCenter per geographic region, migrated from 18 vCenters to 6. The three regions were, North America, Europe and Asia.",
-        "Deployed Windows System Center Operations Manager to monitor VM Hypervisors, UCS compute Platforms & EMC Storage Platforms."
+        "Designed and Implemented Clustered vCenter per geographic region, migrated from 18 vCenters to 6. The three regions were, North America, Europe and Asia."
       ]
     },
     {
@@ -106,10 +101,7 @@
         "Designed and deployed an updated lab infrastructure using ESXi 5.0 and vCloud director.",
         "Standardized on UCS blades for Compute Platform, migrated from HP proliant rack servers.",
         "Implemented standards for all Linux VMs including naming, partitioning, package install, and logging settings.",
-        "Implemented centralized repository for VMWare and Linux patch installations.",
-        "Scoped out project to enable VMWare chargeback and VCOps for full deployment at TNS worldwide.",
-        "Standardized on Authentication scheme using MS Active Directory and Centrify Direct Control.",
-        "Designed & Implemented VMWare update strategy using the VMWare update manager."
+        "Implemented centralized repository for VMWare and Linux patch installations."
       ]
     },
     {
@@ -205,77 +197,7 @@
   ],
   "volunteer": [],
   "education": [],
-  "skills": [
-    {
-      "name": "Technical Competencies",
-      "level": "Master",
-      "keywords": [
-        "Linux/Windows",
-        "Packer",
-        "Terraform",
-        "Ansible",
-        "Docker",
-        "Dual-Stack IPv4 & IPv6",
-        "Grafana",
-        "Zabbix",
-        "Zerto",
-        "PowerShell"
-      ]
-    },
-    {
-      "name": "Cloud Architecture",
-      "level": "Master",
-      "keywords": [
-        "AWS:IAM",
-        "AWS:CloudFormation",
-        "AWS:VPC",
-        "AWS:EC2",
-        "AWS:RDS",
-        "AWS:ALB",
-        "AWS:ClassicELB",
-        "AWS:NLB",
-        "AWS:Route53",
-        "AWS:S3",
-        "AWS:CertificateManager",
-        "AWS:CloudFront",
-        "AWS:DirectConnect",
-        "AWS:EFS",
-        "cfn-init"
-      ]
-    },
-    {
-      "name": "CI/CD",
-      "level": "Advanced",
-      "keywords": [
-        "Jenkins",
-        "AWS:CodeBuild",
-        "AWS:CodePipeline",
-        "AWS:CodeCommit"
-      ]
-    },
-    {
-      "name": "On-Premises Architecture",
-      "level": "Master",
-      "keywords": [
-        "VMWawre",
-        "Cisco UCS",
-        "Cisco MDS",
-        "HPE Nimble",
-        "KVM",
-        "Ubiquiti Unifi"
-      ]
-    },
-    {
-      "name": "VMWare",
-      "level": "Master",
-      "keywords": [
-        "ESXi",
-        "vCenter",
-        "Horizon",
-        "vROPS"
-      ]
-    }
-  ],
+  "skills": [],
   "languages": [],
   "interests": []
 }
